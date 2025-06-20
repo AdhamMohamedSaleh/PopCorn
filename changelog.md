@@ -1,3 +1,3 @@
 # Changelog
 
-- Updated the `engines.node` field in `package.json` to `>=22.16.0` to match the local Node.js version.
+- Updated the `engines.node` field in `package.json` to `20.x` to match the local Node.js version.
